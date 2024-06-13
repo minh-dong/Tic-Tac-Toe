@@ -1,5 +1,3 @@
-# Followed this guide: https://realpython.com/tic-tac-toe-python/
-
 from game import TicTacToeGame
 from board import TicTacToeBoard
 
